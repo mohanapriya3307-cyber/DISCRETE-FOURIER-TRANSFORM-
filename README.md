@@ -8,7 +8,7 @@
 PC installed with SCILAB. 
 
 # PROGRAM: 
-// DISCRETE FOURIER TRANSFORM 
+ DISCRETE FOURIER TRANSFORM 
 ```
 clc;
 clear;
@@ -42,7 +42,7 @@ xlabel('frequency(Hz)');
 ylabel('Phase');
 title('Phase spectrum');
 ```
-//FAST FOURIER TRANSFORM
+FAST FOURIER TRANSFORM
 ```
 clear;
 clc;
@@ -78,12 +78,13 @@ title('Inverse FFT OF X(K)');
 ```
 
 # OUTPUT: 
-//DFT
+DFT
 
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/7845829c-1d75-4f3b-92c2-379befe7e6bf" />
 
-//FFT
+FFT
 
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/409b1ef9-1a07-4a18-8890-e30cb2927e16" />
 
 # RESULT: 
+Thus, the Discrete Fourier Transform and Fast Fourier Tranform of the given sequence were obtained and its magnitude and phase spectrum were plotted.
